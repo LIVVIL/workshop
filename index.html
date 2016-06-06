@@ -39,7 +39,7 @@
       </header>
       <section>
 
-      <h1><span style='text-align: left'>Logging Interactive Visualizations</span><br><span style='text-align: center'>&</span><br><span style='text-align: right'>Visualizing Interaction Logs</span></h1>
+      <h1><span style='text-align: center'>Logging Interactive Visualizations<br>&<br>Visualizing Interaction Logs</h1>
   
       <p>We are please to host this workshop during the upcoming <a href="http://ieeevis.org/">IEEE VIS 2016</a> conference, which is the premier venue for visualization. The workshop is open to anyone who previously registered at the conference. This website is still in progress, please come back frequently to get updates or <a href='mailto:romain.vuillemot@gmail.com'>contact us</a> directly.</p>
 
@@ -55,13 +55,13 @@
       <p>The workshop will be organized as follows:</p>
 
       <ul>
-        <li>Accepted position papers (abstract, 1 or 2 pages) submitted by participants will be reviewed by the workshop organizers.</li>
-        <li>A series of panels will group position papers by topic, each will be introduced and moderated by an expert</li>
+        <li>Position papers (abstract, 1 or 2 pages) submitted by participants will be reviewed by the workshop organizers.</li>
+        <li>Papers will be grouped by topic and presented by authors during panels, each will be introduced and moderated by an expert.</li>
         <li>One or many keynote researchers and practictionners--who heavily used logs in the past--will be invited to share their experience and present their vision on the main challenges.</li>
-        <li>A concluding session will end the workshop to agree on main challenges and discuss next steps (journal submission, Dagstuhl seminar, ..)</li>
+        <li>A concluding session will end the workshop to agree on main challenges and discuss next steps (journal submission, Dagstuhl seminar, ..).</li>
       </ul>
 
-      <p>The program may evolve depending on the number of submission, but our goal is to allow as many people as possible to expose their point of view on this topic. We invite IEEE Vis participants to contribute to this workshop in order to achieve the following goals:</p>
+      <p>The program may evolve depending on the number of submissions, but our goal is to allow as many people as possible to expose their point of view on this important topic. We invite IEEE Vis participants to contribute to this workshop in order to achieve the following goals:</p>
       
       <h4>Define a Standard Logging Format</h4>
 
@@ -86,6 +86,18 @@
         <li>How to improve the reproducibility of research results and interoperability between logging tools and techniques?</li>
         <li>What are the specifics of logs for controlled experiments versus in the wild ones?</li>
         <li>How do user behavior framework like the HEART framework translate into logs? (and vice versa)</li>
+      </ul>
+
+      <h4>Logging Infrastructure</h4>
+
+      <p>As we have mentioned earlier, a series of tools log users by default (e.g. proxies, web servers). However, from the authors' practical experience, it is oftentimes necessary to build its own tools for the sake of control over the logging format and flexibility in types of events to tracks.</p>
+
+      <ul>
+        <li>What is a simple and affordable setup for logging in Infovis?</li>
+        <li>How to deal with offline tracking, synchronization? How to merge collected logs with other data sources, e.g. to clean, validate or enrich them with more contextual information?</li>
+        <li>How updating an Infovis technique impacts previously collected/legacy logs?</li>
+        <li>How existing APIs (Google Analytics, KissMetrics) can be used to track Infovis techniques? And perform tests such as A/B testing, perform cohort analysis, and real time monitoring?</li>
+        <li>Beyond remote servers: what logging device or tracker can be used for logging? Can logging be manual and self-reported by users, instead of automated?</li>
       </ul>
 
       <h3>
