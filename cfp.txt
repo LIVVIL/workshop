@@ -1,0 +1,31 @@
+=======================================================================
+== Logging Interactive Visualizations & Visualizing Interaction Logs ==
+=======================================================================
+
+A IEEE Vis 2016 workshop, October 23rd or 24th 2016, Baltimore, MD, USA (http://ieeevis.org/)
+
+We invite visualization researchers and practitioners to share their best practices and tools for logging their online visualizations.
+
+In particular, we are interested in tackling the following log-related issues:
+
+* How to log users interactions in a visualization system?
+* How to design effective logging systems?
+* How to make sense of those logs?
+* How to deal with legal and ethical issues related to logging?
+* How to design logs-based visualizations or any other application using logs data?
+
+More details on the workshop website: http://livvil.github.io/workshop/
+
+Submission deadline: 		July 29, 2016
+Submission format: 		  Position papers (abstract, 2 or 4 pages) using the VGTC template
+Workshop: 				      Half a day on October 23rd or 24th 2016 (To be decided)
+
+Organizers:
+
+Romain Vuillemot (Université de Lyon, France)
+Jeremy Boy (United Nations Global Pulse New York Lab, USA)
+Aurélien Tabard (Université de Lyon, France)
+Charles Perin (University of Calgary, Canada)
+Jean-Daniel Fekete(Inria, France
+
+Contact the organizers: romain.vuillemot@gmail.com
