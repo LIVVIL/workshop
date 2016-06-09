@@ -16,9 +16,9 @@ In particular, we are interested in tackling the following log-related issues:
 
 More details on the workshop website: http://livvil.github.io/workshop/
 
-Submission deadline: 		July 29, 2016
-Submission format: 		  Position papers (abstract, 2 or 4 pages) using the VGTC template
-Workshop: 				      Half a day on October 23rd or 24th 2016 (To be decided)
+Submission deadline:    July 29, 2016
+Submission format:      Position papers (abstract, 2 or 4 pages) using the VGTC template
+Workshop:               Half a day on October 23rd or 24th 2016 (To be decided)
 
 Organizers:
 
@@ -26,6 +26,6 @@ Romain Vuillemot (Université de Lyon, France)
 Jeremy Boy (United Nations Global Pulse New York Lab, USA)
 Aurélien Tabard (Université de Lyon, France)
 Charles Perin (University of Calgary, Canada)
-Jean-Daniel Fekete(Inria, France
+Jean-Daniel Fekete(Inria, France)
 
 Contact the organizers: romain.vuillemot@gmail.com
