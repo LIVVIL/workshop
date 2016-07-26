@@ -2,7 +2,7 @@
 == Logging Interactive Visualizations & Visualizing Interaction Logs ==
 =======================================================================
 
-A IEEE Vis 2016 workshop, October 23rd or 24th 2016, Baltimore, MD, USA (http://ieeevis.org/)
+A IEEE Vis 2016 workshop, October 23rd 2016, Baltimore, MD, USA (http://ieeevis.org/)
 
 We invite visualization researchers and practitioners to share their best practices and tools for logging their online visualizations.
 
@@ -17,7 +17,8 @@ In particular, we are interested in tackling the following log-related issues:
 More details on the workshop website: http://livvil.github.io/workshop/
 
 Submission deadline:    July 29, 2016
-Submission format:      Position papers (abstract, 2 or 4 pages) using the IEEE VGTC template
+Submission format:      Position papers (abstract only or article up to 4 pages) using the IEEE VGTC template 
+                        to be submitted to romain.vuillemot@gmail.com
 Workshop:               Half a day on October 23rd 2016
 
 Organizers:
